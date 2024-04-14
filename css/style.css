@@ -12,6 +12,13 @@ header {
     padding: 20px;
     text-align: center;
 }
+
+header a{
+    background-color: lightsalmon;
+    color:brown;
+    padding: 20px;
+    text-align: center;
+}
 nav {
     background-color: rgb(247, 194, 159);
     padding: 10px;
